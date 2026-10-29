@@ -1,0 +1,24 @@
+Customer,Issue Type,Description,Priority Level,Status,SLA Breach Risk,Resolution Time (hrs)
+ABC,Technical,Login issue on mobile app,Medium,Resolved,0,4
+ABC,General,General query about plans,Low,Resolved,0,1
+ABC,Technical,Dashboard is slow to load,Medium,In Progress,0,3
+ABC,General,Need help updating profile,Low,Resolved,0,2
+ABC,Billing,Urgent invoice error blocking payment,High,New,1,0
+ABC,Technical,System not working after update,High,In Progress,1,6
+ABC,Technical,Urgent payment gateway failure,High,New,1,0
+XYZ,General,General query about features,Low,Resolved,0,1
+XYZ,Technical,Server failure during checkout,High,New,1,0
+XYZ,General,Request for user guide,Low,Resolved,0,1
+XYZ,Technical,Urgent data sync not working,High,In Progress,1,8
+XYZ,Technical,Report export issue,Medium,Resolved,0,5
+XYZ,Billing,Delay in refund processing,Medium,New,0,0
+XYZ,Technical,Page is slow on search,Medium,In Progress,0,2
+Nova,Technical,Urgent outage in production,High,New,1,0
+Nova,Technical,API integration failure,High,In Progress,1,7
+Nova,Billing,Billing issue with duplicate charge,Medium,New,0,0
+Nova,Technical,Email notifications delay,Medium,Resolved,0,3
+Nova,General,How to change language settings,Low,Resolved,0,1
+Nova,General,General query about pricing,Low,Resolved,0,1
+ABC,Technical,Urgent payment failure,High,New,1,0
+XYZ,Technical,Dashboard is slow to load,Medium,New,0,0
+Nova,General,General query about plans,Low,New,0,0
